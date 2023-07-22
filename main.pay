@@ -1,0 +1,2 @@
+from play_kazino import play 
+play()
